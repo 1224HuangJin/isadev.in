@@ -1,0 +1,10 @@
+[
+  {
+    "subdomain": "example",
+    "owner": "yourgithubusername",
+    "ns": [
+      "ns1.yourdomain.com",
+      "ns2.yourdomain.com"
+    ]
+  }
+]
